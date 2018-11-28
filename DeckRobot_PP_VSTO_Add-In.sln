@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeckRobot_PP_VSTO_Add-In", "DeckRobot_PP_VSTO_Add-In\DeckRobot_PP_VSTO_Add-In.csproj", "{A45A0FFC-4B55-4C4F-A32D-84DA46FEDB9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A45A0FFC-4B55-4C4F-A32D-84DA46FEDB9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A45A0FFC-4B55-4C4F-A32D-84DA46FEDB9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A45A0FFC-4B55-4C4F-A32D-84DA46FEDB9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A45A0FFC-4B55-4C4F-A32D-84DA46FEDB9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C4B4161-7EAB-40BF-AC00-33A2BE958318}
+	EndGlobalSection
+EndGlobal
